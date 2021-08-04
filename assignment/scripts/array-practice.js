@@ -62,7 +62,12 @@ console.log('Added an animal to end,', animalArray);
 
 // 4.a. TODO: Add a new food at the end of your array & log the array
 
+
+console.log(foodArray);
+
 foodArray.push('naan');
+
+console.log(foodArray);
 
 // Example: Remove the last animal by using Array.pop
 
